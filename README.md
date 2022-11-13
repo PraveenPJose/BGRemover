@@ -15,7 +15,7 @@ python3 app.py
 pyinstaller --onefile -w --icon=icon.ico app.py
 
 # Demo Output
-(.demo.png)
+[https://github.com/PraveenPJose/BGRemover/blob/57ab45c0c97bc81af301be2a20d8a6db26c3f463/demo.png]
 
 
 
